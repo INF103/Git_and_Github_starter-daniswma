@@ -1,0 +1,3 @@
+ # <ins>This is so interesting!</ins>
+From reading this course, I got to learn that a repository is essentially a project folder that holds my project's files and stores its revision history as well. I also learned that GitHub is a useful tool to use when collaborating on projects. You can experiment on the project on your own without changing the base repository by creating branches and then having them reviewed before making official changes. This course was very informative, but I still have some trouble navigating the website/knowing **HOW** to use it.
+*It's so cool though and reminds me of when I was trying to learn html.*
